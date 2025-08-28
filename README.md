@@ -1,4 +1,4 @@
-# toonflix
+# Pomodoro
 
 A new Flutter project.
 
