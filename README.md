@@ -1,6 +1,6 @@
 # Pomodoro
 
-A new Flutter project.
+This is a Pomodoro timer app: 25 minutes of focus followed by a 5-minute break.
 
 ## Getting Started
 
